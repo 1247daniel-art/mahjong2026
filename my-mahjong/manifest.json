@@ -1,0 +1,16 @@
+{
+  "name": "2026 麻將戰績統計表",
+  "short_name": "麻將戰績",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff5f8",
+  "theme_color": "#ffafcc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3556/3556956.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
